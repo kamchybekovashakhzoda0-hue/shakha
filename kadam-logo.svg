@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500" role="img" aria-labelledby="title desc">
+  <title id="title">КАДАМ — Бир кадам. Чоң өзгөрүү.</title>
+  <desc id="desc">КАДАМ volunteering platform logo: a violet footprint with a Kyrgyz-inspired geometric ornament, the Cyrillic wordmark КАДАМ, and its slogan.</desc>
+  <defs>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9B8AF4"/>
+      <stop offset="1" stop-color="#6F59D9"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="#24145F" stroke-linecap="round" stroke-linejoin="round">
+    <!-- A rising step/arrow, paired with a patterned footprint. -->
+    <path d="M257 26 346 4l46 85 17 58-43-11c-8 43-27 79-58 108l-79-39c-2-42 6-80 25-113l-36-8c22-25 48-45 79-58Z" fill="url(#violet)" stroke-width="12"/>
+    <path d="M230 249c-24 19-44 42-59 70-20 37-30 70-22 96 10 34 39 53 73 47 34-6 59-34 74-65 14-30 24-64 23-98l-89-50Z" fill="#B6A9FF" stroke-width="11"/>
+    <!-- Central geometric ornament inspired by traditional Kyrgyz patterns. -->
+    <g stroke="#382280" stroke-width="5">
+      <path d="m230 278 26 19-19 18 19 18-21 18 21 18-24 20-31-23 20-18-20-18 20-18-20-18 29-34Z"/>
+      <path d="m230 292 11 8-11 10 12 11-13 11 13 11-12 10-13-10 11-11-11-10 11-11-11-10 13-9Z"/>
+      <path d="m188 345 25-21 18 20 18-20 19 21 18-20 22 22-23 30-18-20-19 20-19-20-18 20-23-32Z"/>
+      <path d="m201 344 10-10 10 11 11-12 11 12 11-12 11 11-11 14-11-11-11 11-11-11-10 11-10-14Z"/>
+      <path d="M178 319c13 3 21 11 24 24M285 283c-1 16 6 26 20 32M174 397c13-2 22 3 28 15M287 397c-13 0-22 6-28 18"/>
+    </g>
+  </g>
+  <text x="300" y="432" text-anchor="middle" fill="#24145F" font-family="Arial, 'DejaVu Sans', sans-serif" font-size="91" font-weight="800" letter-spacing="7">КАДАМ</text>
+  <text x="300" y="478" text-anchor="middle" fill="#6F59D9" font-family="Arial, 'DejaVu Sans', sans-serif" font-size="24" font-weight="600">Бир кадам. Чоң өзгөрүү.</text>
+</svg>
